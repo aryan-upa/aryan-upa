@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/aryan.upa/"> 
     <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
   <br> <br>
-  <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/729396db4f9121be87310f53dd1cad7355e72644/GitBanner3.gif">
+  <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/358d2d130429583e52b6910bd9f493a482e4244f/uploads/GitBanner.gif">
 </p>
 
 ```
