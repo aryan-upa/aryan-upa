@@ -10,7 +10,7 @@
   <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
   <a href="https://twitter.com/aryanupa"><img align="left" alt= "Aryan Upadhyay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
   <a href="https://open.spotify.com/user/6n6a8g7h9uh751nabxzb8eja4">
-  <img align="left" alt="Aryan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> </a>
+  <img align="left" alt="Aryan's Spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" /> </a>
   <img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
   <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
 
