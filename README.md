@@ -32,6 +32,7 @@
 
 ### My Github Stats:
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura">  
+<a href="http://www.github.com/aryan-upa"><img src="https://activity-graph.herokuapp.com/graph?username=aryan-upa&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ### IDE/Editor (s) In Use:
