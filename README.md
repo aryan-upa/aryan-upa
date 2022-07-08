@@ -37,7 +37,7 @@
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML"/>
 </tr>
 </table>
 <a href="http://www.github.com/aryan-upa"><img src="https://activity-graph.herokuapp.com/graph?username=aryan-upa&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
