@@ -56,9 +56,9 @@
 <!--- Flags --->
 ### Languages and Tools:
 
+  <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.geeksforgeeks.org/"> <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/problemSolving.png" alt="Problem Solving" width="40" height="40"/> </a> 
   <a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a> 
@@ -69,13 +69,9 @@
 
 ### See me at:
   <a href="https://codeforces.com/profile/Ary_upa"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
-  <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> <br> <br>
-
-
-### Commits & Streak:
-<p align="left" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aryan-upa&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&sideNums=A177FE&currStreakNum=A177FE&sideLabels=61FEC9&currStreakLabel=61FEC9&background=15141B&ring=61FEC9&fire=DD2727&stroke=DD5ACF&border=E4E2E2">
-</p>
+  <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> 
+  <a href="https://www.leetcode.com/aryanupa"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
+  <br> <br>
 
 <br>
 <p align="center">
@@ -86,6 +82,12 @@
 
 
 <!---Un-Used--->
+
+<!-- 
+### Commits & Streak:
+<p align="left" >
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aryan-upa&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&sideNums=A177FE&currStreakNum=A177FE&sideLabels=61FEC9&currStreakLabel=61FEC9&background=15141B&ring=61FEC9&fire=DD2727&stroke=DD5ACF&border=E4E2E2">
+</p> -->
 
 <!-- <p width="100%">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura"> <br>
