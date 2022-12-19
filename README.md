@@ -9,10 +9,7 @@
   <a href="https://www.linkedin.com/in/aryan-upa/">
   <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
   <a href="https://twitter.com/aryanupa"><img align="left" alt= "Aryan Upadhyay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
-  <a href="https://open.spotify.com/user/6n6a8g7h9uh751nabxzb8eja4">
-  <img align="left" alt="Aryan's Spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" /> </a>
-  <img align="left" width="3%" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
-   <img align="center" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
+  <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
   <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://www.instagram.com/aryan.upa/"> 
@@ -31,40 +28,43 @@
 ```
 
 ### My Github Stats:
-<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura">   -->
 
 <p align="center">
-<table>
-<tr>
-<td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>
-<td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>
-</tr>
-</table>
-<a href="http://www.github.com/aryan-upa"><img src="https://activity-graph.herokuapp.com/graph?username=aryan-upa&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+ <table>
+ <tr>
+ <td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/> </td>
+ <td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/> </td>
+ </tr>
+ </table>
+
 </p>
 
 
 ### IDE/Editor (s) In Use:
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-<img align="left" width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img align="left" width="10%" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <br>
 
 
 <!--- Flags --->
 ### Languages and Tools:
-
-  <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.geeksforgeeks.org/"> <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/problemSolving.png" alt="Problem Solving" width="40" height="40"/> </a> 
-  <a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <br>
+<!-- Java --> <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<!-- JavaScript --> <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" height="40"/> </a> 
+<!-- C++ --> <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<!-- Python --> <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!-- C --> <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<!-- Kotlin --> <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<!-- Spring Framework --> <a href=""> <img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="Spring" height="40"> </a>
+<!-- React --> <a href="https://reactjs.org/"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="React" height="40"> </a>
+<!-- Problem Solving --> <a href="https://www.geeksforgeeks.org/"> <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/problemSolving.png" alt="Problem Solving" width="40" height="40"/> </a> 
+<!-- Bootstrap --> <a href="https://www.bootstrap.com"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" alt="Bootstrap"> </a>
+<!-- MUI --> <a href="https://www.mui.com"> <img src="https://mui.com/static/logo.png" height="40" alt="MUI"> </a>
+<!-- Canva --> <a href="https://www.canva.com"> <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/09/16/5f6d56870bd85.png" alt="Canva" height="40"> </a>
+<!-- Github --> <a href="https://github.com/"> <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/github.png" alt="git" width="40" height="40"/> </a> 
+<!-- Firebase --> <a href="https://www.firebase.com"> <img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" height="40" alt="Firebase"> </a>
+<!-- MySQL --> <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<br>
 
 
 ### See me at:
@@ -95,3 +95,8 @@
  -->
 
 <!--- ![Aryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa) --->
+
+<!--  Commits Graph
+<a href="http://www.github.com/aryan-upa"><img src="https://activity-graph.herokuapp.com/graph?username=aryan-upa&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+-->
+
