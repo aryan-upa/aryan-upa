@@ -44,6 +44,7 @@
 ### IDE/Editor (s) In Use:
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/WEBSTORM-%2307c3f2?logo=webstorm"/>
 <br>
 
 
@@ -70,15 +71,14 @@
 
 
 ### See me at:
+  <a href="https://www.leetcode.com/aryanupa"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
   <a href="https://codeforces.com/profile/Ary_upa"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
   <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> 
-  <a href="https://www.leetcode.com/aryanupa"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
   <br> <br>
 
 <br>
 <p align="center">
-  Any fool can write code that a computer can understand. Good programmers write code that humans can understand. <br>
-  - Martin Fowler <br>
+ <img src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" alt="quote-snippet"/>
 <img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
 
