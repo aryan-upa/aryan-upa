@@ -29,21 +29,13 @@
 
 ### My Github Stats:
 
-<p align="center">
-
- <table>
- <tr>
- <td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/> </td>
- <td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/> </td>
- </tr>
- </table>
-
-</p>
-
-
+|_**Github Stats**_|_**Top Languages**_|
+|-----------|-------------|
+|<img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
+ 
 ### IDE/Editor (s) In Use:
-<img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
+<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-005ba4?logo=visualstudiocode">
 <img align="left" src="https://img.shields.io/badge/WEBSTORM-%2307c3f2?logo=webstorm"/>
 <br>
 
@@ -71,9 +63,9 @@
 
 
 ### See me at:
-  <a href="https://www.leetcode.com/aryanupa"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
-  <a href="https://codeforces.com/profile/Ary_upa"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
-  <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a> 
+  <a href="https://www.leetcode.com/aryanupa"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black"> </a>
+  <a href="https://codeforces.com/profile/Ary_upa"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a>
+  <a href="https://www.codechef.com/users/aryan_upa"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"> </a> 
   <br> <br>
 
 <br>
